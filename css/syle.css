@@ -1,0 +1,44 @@
+body {
+  background-image: url("../image/wairimu.jpg");
+  background-repeat: no-repeat;
+  font-family: sans-serif;
+  background-position: top;
+  background-origin: inherit;
+  background-color: white;
+  }
+  .important{
+  color: red;
+}
+.unimportant{
+  color:blue
+}
+.column {
+  width:300px;
+  float;left:
+}
+.my-class {
+        border: 40px solid green;
+      }
+      .my-class {
+       margin: 2px;
+       border: 5px solid orange;
+       padding: 5px;
+     }
+.my-class {
+  margin: 40px;
+  border: 5px solid green;
+  padding: 7px
+  background-color-orange;
+}
+body {
+       font-family: sans-serif;
+     }
+.column p{
+  background-color: yellow;
+}
+.important p{
+  background-color: purple;
+}
+.border p{
+  background-color: green;
+}
